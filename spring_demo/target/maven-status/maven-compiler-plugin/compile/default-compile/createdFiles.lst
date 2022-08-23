@@ -1,0 +1,7 @@
+com\w\dao\impl\UserDaoImpl.class
+com\w\dao\IUserDao.class
+com\w\AppForAnnotation.class
+com\w\config\SpringConfig.class
+com\w\controller\UserController.class
+com\w\service\impl\UserServiceImpl.class
+com\w\service\IUserService.class

@@ -1,0 +1,12 @@
+com\w\framework\beans\factory\xml\XmlBeanDefinitionReader.class
+com\w\framework\context\support\ClassPathXmlApplicationContext.class
+com\w\framework\utils\StringUtils.class
+com\w\framework\beans\MultiplePropertyValue.class
+com\w\framework\context\ApplicationContext.class
+com\w\framework\context\support\AbstractApplicationContext.class
+com\w\framework\beans\factory\support\BeanDefinitionRegistry.class
+com\w\framework\beans\PropertyValue.class
+com\w\framework\beans\factory\support\SimpleBeanDefinitionRegistry.class
+com\w\framework\beans\BeanDefinition.class
+com\w\framework\beans\factory\BeanFactory.class
+com\w\framework\beans\factory\support\BeanDefinitionReader.class

@@ -1,0 +1,18 @@
+package com.w.pattern.facade;
+
+/**
+ * @author blue
+ * @version 1.0
+ */
+public class Light {
+
+    //on
+    public void on() {
+        System.out.println("turn on the light");
+    }
+
+    //of
+    public void off() {
+        System.out.println("turn off the light");
+    }
+}
